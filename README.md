@@ -88,5 +88,5 @@ One never stops studying in this branch.
 </p>
 
 <p>&nbsp;
-<img width="250" align="center" src="https://github-readme-stats.vercel.app/api?username=ariijackson&show_icons=true&locale=en" alt="ariijackson" />
-<img width="250" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ariijackson&" alt="ariijackson" /></p>
+<img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=ariijackson&show_icons=true&locale=en" alt="ariijackson" />
+<img width="450" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ariijackson&" alt="ariijackson" /></p>
