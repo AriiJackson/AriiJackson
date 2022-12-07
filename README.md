@@ -97,3 +97,8 @@ One never stops studying in this branch.
   <img src="https://cdn-icons-png.flaticon.com/512/2164/2164967.png" width="20" height="20">
   ariijackson96@hotmail.com
 </p>
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="20" height="20">
+  <a href="https://www.linkedin.com/in/ariana-virginia-amaya-natel/" target="_blank">Ariana Virginia Amaya Natel</a>
+</p>
+
