@@ -90,3 +90,10 @@ One never stops studying in this branch.
 <p>&nbsp;
 <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=ariijackson&show_icons=true&locale=en" alt="ariijackson" />
 <img width="400" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ariijackson&" alt="ariijackson" /></p>
+
+## <h2 align="center"> Contact </h2>
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/2164/2164967.png" width="20" height="20">
+  ariijackson96@hotmail.com
+</p>
